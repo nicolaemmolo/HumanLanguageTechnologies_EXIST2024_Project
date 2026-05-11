@@ -1,0 +1,8 @@
+matplotlib==3.8.4
+nltk==3.8.1
+numpy==1.26.4
+emoji==2.11.1
+pandas==2.2.1
+PyEvALL==0.1.63
+wandb==0.16.6
+transformers==4.40.1
