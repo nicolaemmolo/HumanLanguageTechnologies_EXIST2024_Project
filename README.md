@@ -30,5 +30,13 @@ The repository is organized into the following main folders:
     * Scripts for training and validation.
     * Scripts for inference and the generation of final test files.
 
+
+## Authors
+[Simone Marzeddu](https://github.com/SimoneMarzeddu) \
+[Giacomo Aru](https://github.com/GiacomoAru) \
+[Nicola Emmolo](https://github.com/nicolaemmolo) \
+[Andrea Piras](https://github.com/aprs3) \
+[Jacopo Raffi](https://github.com/JacopoRaffi) 
+
 ---
 *For further technical details and an in-depth analysis of the results, please refer to the official paper: [RoBEXedda at EXIST 2024](https://ceur-ws.org/Vol-3740/paper-88.pdf).*
