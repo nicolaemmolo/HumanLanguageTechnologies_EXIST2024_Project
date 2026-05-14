@@ -30,12 +30,5 @@ The repository is organized into the following main folders:
     * Scripts for training and validation.
     * Scripts for inference and the generation of final test files.
 
-## Results and Ranking
-
-The developed models, named **"RoBEXedda"**, demonstrated top-tier performance in the official competition:
-
-* Team **Medusa** achieved **second place** overall in the challenge.
-* In the specific "Task 3 Soft-Soft ALL" ranking, our three submissions (runs) secured the **fourth, fifth, and sixth positions**, respectively.
-
 ---
 *For further technical details and an in-depth analysis of the results, please refer to the official paper: [RoBEXedda at EXIST 2024](https://ceur-ws.org/Vol-3740/paper-88.pdf).*
